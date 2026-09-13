@@ -1,10 +1,10 @@
 # Class Activity 02 — Simulasi & Deteksi TCP SYN Flood
 
-**Mata Kuliah:** Keamanan Jaringan Komputer
-**Nama:** Ryan Adya Purwanto
-**NRP:** 5027231046
-**Kelas:** A
-**Tanggal:** 13 September 2026
+- **Mata Kuliah:** Keamanan Jaringan Komputer 
+- **Nama:** Ryan Adya Purwanto 
+- **NRP:** 5027231046 
+- **Kelas:** A 
+- **Tanggal:** 13 September 2026
 
 Laporan ini mendokumentasikan simulasi serangan **TCP SYN Flood** dari mesin penyerang (Kali Linux) ke mesin korban (Windows), lalu mendeteksi dan menganalisisnya menggunakan Wireshark. Seluruh pengujian dilakukan di jaringan lab tertutup (VMware NAT) tanpa menyentuh jaringan publik.
 
